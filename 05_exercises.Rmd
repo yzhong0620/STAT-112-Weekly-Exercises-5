@@ -335,4 +335,4 @@ knitr::include_graphics("graph7.gif")
 
   9. Below, provide a link to your GitHub page with this set of Weekly Exercises. Specifically, if the name of the file is 05_exercises.Rmd, provide a link to the 05_exercises.md file, which is the one that will be most readable on GitHub. If that file isn't very readable, then provide a link to your main GitHub page.
 
-> [github](https://github.com/yzhong0620/STAT-112-Weekly-Exercises-4/blob/master/05_exercises.md)
+> [github](https://github.com/yzhong0620/STAT-112-Weekly-Exercises-5/blob/master/05_exercises.md)
